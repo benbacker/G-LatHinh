@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{595F0B58-DDA3-49A0-9F68-8D0FB35D3D2F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestLatHinh</RootNamespace>
+    <AssemblyName>TestLatHinh</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.28, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Fizzler, Version=1.1.21209.0, Culture=neutral, PublicKeyToken=4ebff4844e382110, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fizzler.1.1.0\lib\net35\Fizzler.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fizzler.Systems.HtmlAgilityPack, Version=1.1.21209.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fizzler.Systems.HtmlAgilityPack.1.1.1\lib\net35\Fizzler.Systems.HtmlAgilityPack.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.5.1.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.5.1\lib\Net45\HtmlAgilityPack.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NAudio, Version=1.8.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.1.8.4\lib\net35\NAudio.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Card.cs" />
+    <Compile Include="CreateCursor.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLanGameplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLanGameplay.Designer.cs">
+      <DependentUpon>frmLanGameplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameInfo.Designer.cs">
+      <DependentUpon>GameInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameLevel.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="InternetConnection.cs" />
+    <Compile Include="ListCard.cs" />
+    <Compile Include="ListGameLevel.cs" />
+    <Compile Include="LatHinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LatHinh.Designer.cs">
+      <DependentUpon>LatHinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhaDao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhaDao.Designer.cs">
+      <DependentUpon>PhaDao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rank.Designer.cs">
+      <DependentUpon>Rank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReadFullyStream.cs" />
+    <Compile Include="Setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting.Designer.cs">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SinglePlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SinglePlay.Designer.cs">
+      <DependentUpon>SinglePlay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SocketData.cs" />
+    <Compile Include="SocketManager.cs" />
+    <Compile Include="SoloMultiplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoloMultiplay.Designer.cs">
+      <DependentUpon>SoloMultiplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stream.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stream.Designer.cs">
+      <DependentUpon>Stream.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLanGameplay.resx">
+      <DependentUpon>frmLanGameplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameInfo.resx">
+      <DependentUpon>GameInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LatHinh.resx">
+      <DependentUpon>LatHinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhaDao.resx">
+      <DependentUpon>PhaDao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rank.resx">
+      <DependentUpon>Rank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting.resx">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SinglePlay.resx">
+      <DependentUpon>SinglePlay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SoloMultiplay.resx">
+      <DependentUpon>SoloMultiplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stream.resx">
+      <DependentUpon>Stream.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgound1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\missing.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\28.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\34.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\35.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\37.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\38.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\45.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\47.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\49.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addtime.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonusscore.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dangerous.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\28a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\29a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\34a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\35a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\37a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\38a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\42a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\45a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\47a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\49a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\50a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\52a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\53a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\54a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\55a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\57a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\58a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\59a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\60a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScoreSave.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playlist.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrong1.wav" />
+    <None Include="Resources\ys.wav" />
+    <None Include="Resources\BackgroundAshe.jpg" />
+    <None Include="Resources\backgroundDiana.jpg" />
+    <None Include="Resources\backgroundlux.jpg" />
+    <None Include="Resources\backgroundPoro.jpg" />
+    <None Include="Resources\backgroundsona.jpg" />
+    <None Include="Resources\backgroundsona2.png" />
+    <None Include="Resources\BackgroundSyndra.jpg" />
+    <None Include="Resources\backgroundThresh.jpg" />
+    <None Include="Resources\panelBackground.png" />
+    <None Include="Resources\1b.jpg" />
+    <None Include="Resources\2b.jpg" />
+    <None Include="Resources\3b.jpg" />
+    <None Include="Resources\4b.jpg" />
+    <None Include="Resources\5b.jpg" />
+    <None Include="Resources\6b.jpg" />
+    <None Include="Resources\7b.jpg" />
+    <None Include="Resources\8b.jpg" />
+    <None Include="Resources\9b.jpg" />
+    <None Include="Resources\10b.jpg" />
+    <None Include="Resources\11b.jpg" />
+    <None Include="Resources\12b.jpg" />
+    <None Include="Resources\13b.jpg" />
+    <None Include="Resources\14b.jpg" />
+    <None Include="Resources\15b.jpg" />
+    <None Include="Resources\16b.jpg" />
+    <None Include="Resources\17b.jpg" />
+    <None Include="Resources\18b.jpg" />
+    <None Include="Resources\19b.jpg" />
+    <None Include="Resources\20b.jpg" />
+    <None Include="Resources\21b.jpg" />
+    <None Include="Resources\22b.jpg" />
+    <None Include="Resources\23b.jpg" />
+    <None Include="Resources\24b.jpg" />
+    <None Include="Resources\25b.jpg" />
+    <None Include="Resources\26b.jpg" />
+    <None Include="Resources\27b.jpg" />
+    <None Include="Resources\28b.jpg" />
+    <None Include="Resources\29b.jpg" />
+    <None Include="Resources\30b.jpg" />
+    <None Include="Resources\31b.jpg" />
+    <None Include="Resources\32b.jpg" />
+    <None Include="Resources\33b.jpg" />
+    <None Include="Resources\34b.jpg" />
+    <None Include="Resources\35b.jpg" />
+    <None Include="Resources\36b.jpg" />
+    <None Include="Resources\37b.jpg" />
+    <None Include="Resources\38b.jpg" />
+    <None Include="Resources\39b.jpg" />
+    <None Include="Resources\40b.jpg" />
+    <None Include="Resources\41b.jpg" />
+    <None Include="Resources\42b.jpg" />
+    <None Include="Resources\43b.jpg" />
+    <None Include="Resources\44b.jpg" />
+    <None Include="Resources\45b.jpg" />
+    <None Include="Resources\46b.jpg" />
+    <None Include="Resources\47b.jpg" />
+    <None Include="Resources\48b.jpg" />
+    <None Include="Resources\49b.jpg" />
+    <None Include="Resources\50b.jpg" />
+    <None Include="Resources\51b.jpg" />
+    <None Include="Resources\52b.jpg" />
+    <None Include="Resources\53b.jpg" />
+    <None Include="Resources\54b.jpg" />
+    <None Include="Resources\55b.jpg" />
+    <None Include="Resources\56b.jpg" />
+    <None Include="Resources\57b.jpg" />
+    <None Include="Resources\58b.jpg" />
+    <None Include="Resources\59b.jpg" />
+    <None Include="Resources\60b.jpg" />
+    <None Include="Resources\61b.jpg" />
+    <None Include="Resources\62b.jpg" />
+    <None Include="Resources\63b.jpg" />
+    <None Include="Resources\64b.jpg" />
+    <None Include="Resources\65b.jpg" />
+    <None Include="Resources\66b.jpg" />
+    <None Include="Resources\67b.jpg" />
+    <None Include="Resources\68b.jpg" />
+    <None Include="Resources\69b.jpg" />
+    <None Include="Resources\70b.jpg" />
+    <None Include="Resources\71b.jpg" />
+    <None Include="Resources\72b.jpg" />
+    <None Include="Resources\73b.jpg" />
+    <None Include="Resources\74b.jpg" />
+    <None Include="Resources\75b.jpg" />
+    <None Include="Resources\76b.jpg" />
+    <None Include="Resources\77b.jpg" />
+    <None Include="Resources\78b.jpg" />
+    <None Include="Resources\79b.jpg" />
+    <None Include="Resources\80b.jpg" />
+    <None Include="Resources\81b.jpg" />
+    <None Include="Resources\82b.jpg" />
+    <None Include="Resources\83b.jpg" />
+    <None Include="Resources\84b.jpg" />
+    <None Include="Resources\85b.jpg" />
+    <None Include="Resources\86b.jpg" />
+    <None Include="Resources\87b.jpg" />
+    <None Include="Resources\88b.jpg" />
+    <None Include="Resources\89b.jpg" />
+    <None Include="Resources\90b.jpg" />
+    <None Include="Resources\91b.jpg" />
+    <None Include="Resources\92b.jpg" />
+    <None Include="Resources\93b.jpg" />
+    <None Include="Resources\94b.jpg" />
+    <None Include="Resources\95b.jpg" />
+    <None Include="Resources\96b.jpg" />
+    <None Include="Resources\97b.jpg" />
+    <None Include="Resources\98b.jpg" />
+    <None Include="Resources\99b.jpg" />
+    <None Include="Resources\100b.jpg" />
+    <None Include="Resources\background1.jpg" />
+    <None Include="Resources\background2.jpg" />
+    <None Include="Resources\background3.jpg" />
+    <None Include="Resources\background4.jpg" />
+    <None Include="Resources\background5.jpg" />
+    <None Include="Resources\background6.jpg" />
+    <None Include="Resources\background7.jpg" />
+    <None Include="Resources\background8.png" />
+    <None Include="Resources\background9.jpg" />
+    <None Include="Resources\backgroundmusic.mp3" />
+    <None Include="Resources\backgroundmusic.wav" />
+    <None Include="Resources\correct.wav" />
+    <None Include="Resources\background10.png" />
+    <None Include="Resources\Minimize.png" />
+    <None Include="Resources\Exit.png" />
+    <None Include="Resources\a.png" />
+    <Content Include="Resources\score.xml" />
+    <None Include="Resources\YasuoBackground.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

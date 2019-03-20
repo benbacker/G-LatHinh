@@ -1,0 +1,217 @@
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\TestLatHinh.exe.config
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\TestLatHinh.exe
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\TestLatHinh.pdb
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.exe
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.pdb
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.frmGame.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.LatHinh.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.SinglePlay.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Data.v17.2.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Data.v17.2.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.exe.licenses
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.PhaDao.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.SoloMultiplay.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\HtmlAgilityPack.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\HtmlAgilityPack.pdb
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\HtmlAgilityPack.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Setting.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\NAudio.dll
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\bin\Debug\NAudio.xml
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Stream.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.frmLanGameplay.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Rank.resources
+E:\Visual Studio 2015\Projects\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.GameInfo.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\TestLatHinh.exe.config
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\TestLatHinh.exe
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\TestLatHinh.pdb
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\HtmlAgilityPack.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\NAudio.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\HtmlAgilityPack.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\NAudio.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.frmGame.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.frmLanGameplay.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.GameInfo.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.LatHinh.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.PhaDao.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Properties.Resources.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Rank.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Setting.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.SinglePlay.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.SoloMultiplay.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Stream.resources
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.csproj.GenerateResource.cache
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.exe.licenses
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.csproj.CoreCompileInputs.cache
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.csproj.CopyComplete
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.exe
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.pdb
+C:\Users\LionC\Desktop\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.csprojAssemblyReference.cache
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\TestLatHinh.exe.config
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\TestLatHinh.exe
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\TestLatHinh.pdb
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\HtmlAgilityPack.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\NAudio.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\HtmlAgilityPack.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\NAudio.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.csprojResolveAssemblyReference.cache
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.frmGame.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.frmLanGameplay.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.GameInfo.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.LatHinh.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.PhaDao.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Properties.Resources.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Rank.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Setting.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.SinglePlay.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.SoloMultiplay.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.Stream.resources
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.csproj.GenerateResource.Cache
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.exe.licenses
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.exe
+C:\Users\BenBacker\Desktop\LatHinh\TestLatHinhFinal\TestLatHinh\TestLatHinh\obj\Debug\TestLatHinh.pdb
+C:\Users\BenBacker\Documents\G-LatHinh\TestLatHinh\bin\Debug\TestLatHinh.exe.config
+C:\Users\BenBacker\Documents\G-LatHinh\TestLatHinh\obj\Debug\TestLatHinh.exe
+C:\Users\BenBacker\Documents\G-LatHinh\TestLatHinh\obj\Debug\TestLatHinh.pdb
